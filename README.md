@@ -135,9 +135,3 @@ Connection settings live in `src/com/suraj/lkm/resources/cst_conn.properties` â€
 
 **Suraj Behera**
 [GitHub](https://github.com/surajbehera230900)
-
----
-
-## ðŸ“„ License
-
-This project was built for training and educational purposes.
